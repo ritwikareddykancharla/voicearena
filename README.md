@@ -247,7 +247,10 @@ voicearena/
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+VoiceArena — Voice-controlled 3D fighting game  
+Copyright (C) 2026 Ritwika Reddy Kancharla
+
+Licensed under AGPL-3.0 — see [LICENSE](LICENSE) for details.
 
 <br>
 
