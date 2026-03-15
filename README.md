@@ -3,7 +3,7 @@
 > **Command your fighter with your voice.**
 > The world's first voice-controlled fighting game powered by AI.
 
-![VoiceArena Banner](Two_fighters_in_mma_arena_ad0718ebc4.jpeg)
+![VoiceArena Banner](typemotion-1773536431943.gif)
 
 [![Built for](https://img.shields.io/badge/Built%20for-Gemini%20Live%20Agent%20Challenge-4285F4?style=flat-square&logo=google)](https://geminiliveagentchallenge.devpost.com/)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-blue?style=flat-square)](LICENSE)
