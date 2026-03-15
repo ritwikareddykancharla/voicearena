@@ -4,6 +4,8 @@
 
 > Built for the [Gemini Live Agent Challenge](https://geminiliveagentchallenge.devpost.com/) | #GeminiLiveAgentChallenge
 
+![VoiceArena Banner](Fighters_facing_in_arena_b9284bd4be.jpeg)
+
 <br>
 
 ## 🎮 What is VoiceArena?
